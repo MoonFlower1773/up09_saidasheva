@@ -86,6 +86,64 @@ ul{
     margin-top:200px;
     margin-left:-250px;
     width:  630px;
-
+}
+.slider{
+    margin-top: 150px;
+}
+.slider_content{
+    width: 1000px;
     
+}
+.slider__header{
+    display: flex;
+    margin-bottom: 65px;
+}
+.firstlogoline{
+    background-color:#005BC1 ;
+    width: 100px;
+    height: 2px;
+}
+.secondlogoline{
+    background-color:#005BC1 ;
+    width: 50px;
+    height: 2px;
+    margin-top:13px;
+    margin-left:50px;
+}
+.slider__title{
+    font-size: 30px;
+    margin-left:40px;
+}
+.logoline{
+    margin-top:15px ;
+}
+.slider__buttons{
+    padding-right: 23px;
+    padding-left: 23px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:#005BC1;
+    background: transparent;
+    border-color:#005BC1;
+    
+}
+.button_left{
+    padding-right: 20px;
+    padding-left: 20px;
+    
+    padding-bottom: 5px;
+    color:#005BC1;
+    background: transparent;
+    font-size: 30px;
+    border-color:#005BC1;
+}
+.button_right{
+    padding-right: 20px;
+    padding-left: 20px;
+   
+    padding-bottom: 5px;
+    color:#005BC1;
+    background: transparent;
+    font-size: 30px;
+    border-color:#005BC1;
 }
